@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "SUM"; ObjectID = "LCD-lL-g4U"; */
+"LCD-lL-g4U.normalTitle" = "SUM";
+
+/* Class = "UILabel"; text = "SUM"; ObjectID = "U5f-0o-w3u"; */
+"U5f-0o-w3u.text" = "SUM";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "vrU-1H-MBW"; */
+"vrU-1H-MBW.text" = "Result";
